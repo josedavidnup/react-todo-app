@@ -1,3 +1,7 @@
+.TodoList-container {
+  margin: 0 auto;
+  width: 80%;
+}
 ul {
   margin: 0;
   padding: 0 0 56px 0;
